@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.1.0-preview.20261102.49",
-  "tarball": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261102.49/faravan-linux-x64-0.1.0-preview.20261102.49.tar.gz",
-  "sha256": "f7666e1fcff1ebd6cf4cdadc4c98430a6bcfb0318fda1ff0d8d29d58b6971822",
-  "size": 56138623,
-  "released": "2026-11-02T21:57:55.765Z",
+  "version": "0.1.0-preview.20261102.50",
+  "tarball": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261102.50/faravan-linux-x64-0.1.0-preview.20261102.50.tar.gz",
+  "sha256": "4ead9d31a6d1e61f1ac804f484af6da7235151a30918b6c2777129c74306f2e3",
+  "size": 56094332,
+  "released": "2026-11-02T23:53:02.488Z",
   "assets_schema": 1,
   "assets": [
     {
@@ -13,18 +13,18 @@
       "kind": "macos-app-zip",
       "channel": "preview-20261028",
       "bundleId": "com.sparekin.preview.20261028",
-      "url": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261102.49/Faravan-mac-arm64-0.1.0-preview.20261102.49.zip",
-      "size": 56814897,
-      "sha256": "0408263d1536620e530d22a945a80ba532b07cb8418f1da7ed2094efc5a62e2c"
+      "url": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261102.50/Faravan-mac-arm64-0.1.0-preview.20261102.50.zip",
+      "size": 56816239,
+      "sha256": "48647be8532b7e2fc25e1dd8c842bdadca11d56b0df812a6784f149dee1d6172"
     },
     {
       "platform": "linux",
       "arch": "x64",
       "kind": "tarball",
-      "channel": "preview-20261026",
-      "url": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261102.49/faravan-linux-x64-0.1.0-preview.20261102.49.tar.gz",
-      "size": 56138623,
-      "sha256": "f7666e1fcff1ebd6cf4cdadc4c98430a6bcfb0318fda1ff0d8d29d58b6971822"
+      "channel": "preview-20261028",
+      "url": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261102.50/faravan-linux-x64-0.1.0-preview.20261102.50.tar.gz",
+      "size": 56094332,
+      "sha256": "4ead9d31a6d1e61f1ac804f484af6da7235151a30918b6c2777129c74306f2e3"
     }
   ]
 }
