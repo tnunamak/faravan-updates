@@ -1,0 +1,3 @@
+# Faravan updates
+
+This repository is the public update feed for Faravan preview builds. It holds only signed release manifests (`preview/update.json` and its detached Ed25519 signature `preview/update.json.sig`), served by GitHub Pages at `https://tnunamak.github.io/faravan-updates/preview/`. The release files the manifests describe are attached to this repository's GitHub releases. An installed Faravan checks the signature against the public key built into the app and refuses any manifest or file that does not match it. The repository contains no source code, and nothing here is needed to verify a release except the app itself.
