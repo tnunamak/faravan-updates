@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.1.0-preview.20261102.53",
-  "tarball": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261102.53/faravan-linux-x64-0.1.0-preview.20261102.53.tar.gz",
-  "sha256": "c30de71a9f4f20db8498c3261db6f31d139f401b3da3a41a367358c5bbedba92",
-  "size": 56100216,
-  "released": "2026-11-03T06:45:40.982Z",
+  "version": "0.1.0-preview.20261102.57",
+  "tarball": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261102.57/faravan-linux-x64-0.1.0-preview.20261102.57.tar.gz",
+  "sha256": "196c2926a0a24c85ec68486b15005437bbf230a7b1c549c8112e494724d6da2a",
+  "size": 56107527,
+  "released": "2026-11-04T13:00:22.641Z",
   "assets_schema": 1,
   "assets": [
     {
@@ -13,18 +13,18 @@
       "kind": "macos-app-zip",
       "channel": "preview-20261028",
       "bundleId": "com.sparekin.preview.20261028",
-      "url": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261102.53/Faravan-mac-arm64-0.1.0-preview.20261102.53.zip",
-      "size": 56821907,
-      "sha256": "77c702a31dea1ea41d78d48af13b1483bda2992929940c3542cb29ef7991f61f"
+      "url": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261102.57/Faravan-mac-arm64-0.1.0-preview.20261102.57.zip",
+      "size": 56825629,
+      "sha256": "8b51d60512841f35b03dba11ef743c2f20977dcb168c65354517427046ee49f1"
     },
     {
       "platform": "linux",
       "arch": "x64",
       "kind": "tarball",
       "channel": "preview-20261028",
-      "url": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261102.53/faravan-linux-x64-0.1.0-preview.20261102.53.tar.gz",
-      "size": 56100216,
-      "sha256": "c30de71a9f4f20db8498c3261db6f31d139f401b3da3a41a367358c5bbedba92"
+      "url": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261102.57/faravan-linux-x64-0.1.0-preview.20261102.57.tar.gz",
+      "size": 56107527,
+      "sha256": "196c2926a0a24c85ec68486b15005437bbf230a7b1c549c8112e494724d6da2a"
     }
   ]
 }
