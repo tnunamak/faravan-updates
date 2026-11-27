@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "version": "0.1.0-preview.20261127.1",
+  "tarball": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261127.1/faravan-linux-x64-0.1.0-preview.20261127.1.tar.gz",
+  "sha256": "3c690c26dadf194e7b380bbf6dabde03477e085ba0f775252139bc0a28a11309",
+  "size": 95962547,
+  "released": "2026-11-27T03:41:48.842Z",
+  "sourceSha": "211aeb6bddcf2cb849270bd1d11373616d99f6bd",
+  "assets_schema": 1,
+  "assets": [
+    {
+      "platform": "linux",
+      "arch": "x64",
+      "kind": "tarball",
+      "channel": "faravan",
+      "url": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261127.1/faravan-linux-x64-0.1.0-preview.20261127.1.tar.gz",
+      "size": 95962547,
+      "sha256": "3c690c26dadf194e7b380bbf6dabde03477e085ba0f775252139bc0a28a11309"
+    }
+  ],
+  "deb": {
+    "arch": "x64",
+    "channel": "faravan",
+    "size": 70412344,
+    "sha256": "7a75ae3690175ab2e57fe2bc34cebd14bcd9cbb9958aab4b7c0137ad51681f92",
+    "file": "faravan_0.1.0-preview.20261127.1_amd64.deb"
+  }
+}
