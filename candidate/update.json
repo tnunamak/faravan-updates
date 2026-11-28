@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "0.1.0-preview.20261128.1",
-  "tarball": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261128.1/faravan-linux-x64-0.1.0-preview.20261128.1.tar.gz",
-  "sha256": "85c6bba345a502cab0f8a9017a8bfe8d4e69f1361078ce2350f85d0a999611fd",
-  "size": 95853407,
-  "released": "2026-11-28T14:24:10.993Z",
-  "sourceSha": "362da09a4ea8314193e646b76977543d97abe425",
-  "privateHead": "ab3cb8efdf033b5dc33f7163ac4a7f24f38420e9",
+  "version": "0.1.0-preview.20261128.2",
+  "tarball": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261128.2/faravan-linux-x64-0.1.0-preview.20261128.2.tar.gz",
+  "sha256": "0b323e91da14293b86e42faee8abab0652511e8e8a530cee814c7f375ebd88ba",
+  "size": 95842619,
+  "released": "2026-11-28T15:11:41.056Z",
+  "sourceSha": "599446751a0bb7628e5459323392542c29904480",
+  "privateHead": "ca03914576eb1437d9ed6780eb427f491fba6494",
   "assets_schema": 1,
   "assets": [
     {
@@ -15,25 +15,25 @@
       "kind": "macos-app-zip",
       "channel": "faravan",
       "bundleId": "com.faravan.app",
-      "url": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261128.1/Faravan-0.1.0-preview.20261128.1-universal-unsigned.zip",
-      "size": 234389138,
-      "sha256": "0e0664d57f2a64e50d082edcb6d87bf239adf8bf598607480267b72e9967526f"
+      "url": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261128.2/Faravan-0.1.0-preview.20261128.2-universal-unsigned.zip",
+      "size": 234389134,
+      "sha256": "cdf5e00e57bcc81e177843b1a0459541242659e0a2c5d894c726025785618a17"
     },
     {
       "platform": "linux",
       "arch": "x64",
       "kind": "tarball",
       "channel": "faravan",
-      "url": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261128.1/faravan-linux-x64-0.1.0-preview.20261128.1.tar.gz",
-      "size": 95853407,
-      "sha256": "85c6bba345a502cab0f8a9017a8bfe8d4e69f1361078ce2350f85d0a999611fd"
+      "url": "https://github.com/tnunamak/faravan-updates/releases/download/v0.1.0-preview.20261128.2/faravan-linux-x64-0.1.0-preview.20261128.2.tar.gz",
+      "size": 95842619,
+      "sha256": "0b323e91da14293b86e42faee8abab0652511e8e8a530cee814c7f375ebd88ba"
     }
   ],
   "deb": {
     "arch": "x64",
     "channel": "faravan",
-    "size": 70323104,
-    "sha256": "a45106f7c0e029b8dfbbab086f5b1ef51f624c92cc72508a0669ad3b34524b1f",
-    "file": "faravan_0.1.0-preview.20261128.1_amd64.deb"
+    "size": 70317040,
+    "sha256": "fc57a7827a9858db3a8a25e8cc7359bbe478414ee94bb3adb6eba6d625f74139",
+    "file": "faravan_0.1.0-preview.20261128.2_amd64.deb"
   }
 }
